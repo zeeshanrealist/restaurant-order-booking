@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ultra HD 4K Television",
+      "description": "A 55-inch Ultra HD 4K television with HDR and smart capabilities. Enjoy crisp and vibrant visuals with advanced color accuracy.",
+      "imageUrl": "https://via.placeholder.com/150?text=Ultra+HD+4K+Television"
+    },
+    {
+      "id": 2,
+      "name": "Wireless Noise-Cancelling Headphones",
+      "description": "High-quality wireless headphones with active noise cancellation and Bluetooth connectivity. Perfect for immersive listening experiences.",
+      "imageUrl": "https://via.placeholder.com/150?text=Wireless+Headphones"
+    },
+    {
+      "id": 3,
+      "name": "Smart Home Security Camera",
+      "description": "A compact, high-definition security camera with motion detection and cloud storage. Keep an eye on your home from anywhere.",
+      "imageUrl": "https://via.placeholder.com/150?text=Smart+Home+Camera"
+    },
+    {
+      "id": 4,
+      "name": "Portable Power Bank",
+      "description": "A 10,000mAh portable power bank with fast-charging capabilities. Keep your devices powered on the go.",
+      "imageUrl": "https://via.placeholder.com/150?text=Portable+Power+Bank"
+    },
+    {
+      "id": 5,
+      "name": "High-Speed Blender",
+      "description": "A high-speed blender with multiple blending modes and a powerful motor. Ideal for making smoothies, soups, and sauces.",
+      "imageUrl": "https://via.placeholder.com/150?text=High-Speed+Blender"
+    },
+    {
+      "id": 6,
+      "name": "Ergonomic Office Chair",
+      "description": "An ergonomic office chair with adjustable lumbar support and a reclining feature. Designed for comfort during long work hours.",
+      "imageUrl": "https://via.placeholder.com/150?text=Office+Chair"
+    },
+    {
+      "id": 7,
+      "name": "Smartwatch with Fitness Tracking",
+      "description": "A smartwatch with fitness tracking features, including heart rate monitoring, GPS, and sleep tracking. Stay on top of your health goals.",
+      "imageUrl": "https://via.placeholder.com/150?text=Smartwatch"
+    },
+    {
+      "id": 8,
+      "name": "Compact Digital Camera",
+      "description": "A compact digital camera with a 20MP sensor and built-in Wi-Fi. Capture high-quality photos and share them instantly.",
+      "imageUrl": "https://via.placeholder.com/150?text=Digital+Camera"
+    },
+    {
+      "id": 9,
+      "name": "Stylish Laptop Backpack",
+      "description": "A sleek laptop backpack with padded compartments for your devices and ample space for other essentials. Perfect for professionals on the move.",
+      "imageUrl": "https://via.placeholder.com/150?text=Laptop+Backpack"
+    },
+    {
+      "id": 10,
+      "name": "Home Espresso Machine",
+      "description": "An advanced home espresso machine with a built-in grinder and milk frother. Brew barista-quality coffee at home.",
+      "imageUrl": "https://via.placeholder.com/150?text=Espresso+Machine"
+    },
+    {
+      "id": 11,
+      "name": "Bluetooth Portable Speaker",
+      "description": "A waterproof Bluetooth speaker with deep bass and up to 12 hours of playtime. Enjoy music wherever you are.",
+      "imageUrl": "https://via.placeholder.com/150?text=Bluetooth+Speaker"
+    },
+    {
+      "id": 12,
+      "name": "Electric Toothbrush",
+      "description": "An electric toothbrush with multiple brushing modes and a built-in timer. Enhance your oral hygiene with advanced cleaning technology.",
+      "imageUrl": "https://via.placeholder.com/150?text=Electric+Toothbrush"
+    },
+    {
+      "id": 13,
+      "name": "Gourmet Knife Set",
+      "description": "A high-quality gourmet knife set with precision blades and ergonomic handles. Ideal for culinary enthusiasts and professional chefs.",
+      "imageUrl": "https://via.placeholder.com/150?text=Knife+Set"
+    },
+    {
+      "id": 14,
+      "name": "Air Purifier with HEPA Filter",
+      "description": "An air purifier featuring a HEPA filter and multiple purification modes. Improve indoor air quality and reduce allergens.",
+      "imageUrl": "https://via.placeholder.com/150?text=Air+Purifier"
+    },
+    {
+      "id": 15,
+      "name": "Digital Drawing Tablet",
+      "description": "A digital drawing tablet with pressure sensitivity and customizable buttons. Perfect for artists and graphic designers.",
+      "imageUrl": "https://via.placeholder.com/150?text=Drawing+Tablet"
+    }
+  ]
+}
